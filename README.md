@@ -4,7 +4,7 @@
 # EventTicket: Event Sales 
 
 #### Team members:
-#### Sinan Colpan, Carolina Corona, Chimdike Ihe, Dave Dwarakan, Justin Gouin
+#### Justin Gouin, Sinan Colpan, Carolina Corona, Chimdike Ihe, Dave Dwarakan
 ---
 
 
