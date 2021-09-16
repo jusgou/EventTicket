@@ -1,4 +1,5 @@
-![Ticket](image/ETKN.png)
+![Ticket](![ETKN](https://user-images.githubusercontent.com/77997949/133622443-32b40805-5d14-48e2-83ab-79a3974d15d3.png)
+
 
 # EventTicket: Event Sales 
 
