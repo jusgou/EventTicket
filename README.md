@@ -1,4 +1,4 @@
-![Ticket](![ETKN](https://user-images.githubusercontent.com/77997949/133622443-32b40805-5d14-48e2-83ab-79a3974d15d3.png)
+(![ETKN](https://user-images.githubusercontent.com/77997949/133622443-32b40805-5d14-48e2-83ab-79a3974d15d3.png)
 
 
 # EventTicket: Event Sales 
@@ -44,7 +44,7 @@ EventTicket is a decentralized application that offers a blockchain solution for
 - Ganache
 - Metamask
 
-![Ticket](![z](https://user-images.githubusercontent.com/77997949/133622603-7ac4ceb1-8160-4dd7-b67b-e3f3042cb2b8.png)
+(![z](https://user-images.githubusercontent.com/77997949/133622603-7ac4ceb1-8160-4dd7-b67b-e3f3042cb2b8.png)
 
 
 ---
@@ -54,29 +54,29 @@ EventTicket is a decentralized application that offers a blockchain solution for
 ---
 
 ## UML:
-![UML](![UML](https://user-images.githubusercontent.com/77997949/133622707-5749b64b-01ff-4de6-860c-7532b3ddaa95.png)
+(![UML](https://user-images.githubusercontent.com/77997949/133622707-5749b64b-01ff-4de6-860c-7532b3ddaa95.png)
 
 ---
 
 ## Process flow:
 
 ###  Minting
-![Minting](![minting](https://user-images.githubusercontent.com/77997949/133622825-d371bfdc-6534-4e63-8c47-0f9d150b7210.png)
+(![minting](https://user-images.githubusercontent.com/77997949/133622825-d371bfdc-6534-4e63-8c47-0f9d150b7210.png)
 
 ###  Buying a ticket from the vendor
-![Buying](![buyingfromvendor](https://user-images.githubusercontent.com/77997949/133622865-6f817d24-fca9-4e8d-93ef-84f55eb20864.png)
+(![buyingfromvendor](https://user-images.githubusercontent.com/77997949/133622865-6f817d24-fca9-4e8d-93ef-84f55eb20864.png)
 
 ###  Buying a ticket from another user
-![Reselling](![offertouser](https://user-images.githubusercontent.com/77997949/133622970-2b10324b-deb3-410f-8a9d-cbc609d586d2.png)
+(![offertouser](https://user-images.githubusercontent.com/77997949/133622970-2b10324b-deb3-410f-8a9d-cbc609d586d2.png)
 
 ###  Collecting a refund
-![Refund](![colecting-refund](https://user-images.githubusercontent.com/77997949/133623068-0e357f89-6bf4-4f25-84e1-44dd021a58d3.png)
+(![colecting-refund](https://user-images.githubusercontent.com/77997949/133623068-0e357f89-6bf4-4f25-84e1-44dd021a58d3.png)
 
 ###  Accepting an offer from another user
-![Accepting](![accepting_offer](https://user-images.githubusercontent.com/77997949/133623094-d7b847c7-9aef-4383-86c7-9e2a77a65394.png)
+(![accepting_offer](https://user-images.githubusercontent.com/77997949/133623094-d7b847c7-9aef-4383-86c7-9e2a77a65394.png)
 
 ###  Rejecting an offer
-![Rejecting](![rejecting_offer](https://user-images.githubusercontent.com/77997949/133623171-e88f91e5-06ae-4b3e-976d-eaa39c9ca4cc.png)
+(![rejecting_offer](https://user-images.githubusercontent.com/77997949/133623171-e88f91e5-06ae-4b3e-976d-eaa39c9ca4cc.png)
 
 
 ## Deployment:
