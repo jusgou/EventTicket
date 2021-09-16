@@ -44,7 +44,8 @@ EventTicket is a decentralized application that offers a blockchain solution for
 - Ganache
 - Metamask
 
-![Ticket](image/z.png)
+![Ticket](![z](https://user-images.githubusercontent.com/77997949/133622603-7ac4ceb1-8160-4dd7-b67b-e3f3042cb2b8.png)
+
 
 ---
 ## Video Demo
@@ -53,7 +54,7 @@ EventTicket is a decentralized application that offers a blockchain solution for
 ---
 
 ## UML:
-![UML](image/UML.png)
+![UML](![UML](https://user-images.githubusercontent.com/77997949/133622707-5749b64b-01ff-4de6-860c-7532b3ddaa95.png)
 
 ---
 
