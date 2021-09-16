@@ -61,22 +61,22 @@ EventTicket is a decentralized application that offers a blockchain solution for
 ## Process flow:
 
 ###  Minting
-![Minting](image/minting.png)
+![Minting](![minting](https://user-images.githubusercontent.com/77997949/133622825-d371bfdc-6534-4e63-8c47-0f9d150b7210.png)
 
 ###  Buying a ticket from the vendor
-![Buying](image/buyingfromvendor.png)
+![Buying](![buyingfromvendor](https://user-images.githubusercontent.com/77997949/133622865-6f817d24-fca9-4e8d-93ef-84f55eb20864.png)
 
 ###  Buying a ticket from another user
-![Reselling](image/offertouser.png)
+![Reselling](![offertouser](https://user-images.githubusercontent.com/77997949/133622970-2b10324b-deb3-410f-8a9d-cbc609d586d2.png)
 
 ###  Collecting a refund
-![Refund](image/colecting-refund.png)
+![Refund](![colecting-refund](https://user-images.githubusercontent.com/77997949/133623068-0e357f89-6bf4-4f25-84e1-44dd021a58d3.png)
 
 ###  Accepting an offer from another user
-![Accepting](image/accepting_offer.png)
+![Accepting](![accepting_offer](https://user-images.githubusercontent.com/77997949/133623094-d7b847c7-9aef-4383-86c7-9e2a77a65394.png)
 
 ###  Rejecting an offer
-![Rejecting](image/rejecting_offer.png)
+![Rejecting](![rejecting_offer](https://user-images.githubusercontent.com/77997949/133623171-e88f91e5-06ae-4b3e-976d-eaa39c9ca4cc.png)
 
 
 ## Deployment:
